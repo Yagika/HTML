@@ -1,0 +1,290 @@
+.ima {
+    margin: 0 380px 0 50px;
+}
+
+.bor {
+    border-bottom: 2px solid rgba(128, 128, 128, 0.11);
+}
+
+.header {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin: 150px;
+}
+
+.header p::before,
+.header p::after {
+    width: 50%;
+    height: 3px;
+    background: rgba(161, 160, 160, 0.3);
+    display: block;
+    content: "";
+    margin: 40px 0;
+}
+
+.header h1 {
+    font-weight: bold;
+    color: #1652AC;
+    line-height: 50px;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header-low h3 {
+    font-weight: bold;
+    color: #1652AC;
+    margin: 15px 0;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2px;
+}
+
+.header-low span {
+    font-weight: bold;
+}
+
+.header-bottom {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: -100px;
+}
+
+.header-low p {
+    width: 80%;
+}
+
+.blue {
+    background: linear-gradient(180deg, #163DA2 0%, #003584 100%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.blue .text {
+    margin-right: 150px;
+    color: rgba(255, 255, 255, 0.76);
+    width: 30%;
+}
+
+.text h3 {
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    color: rgb(255, 255, 255);
+}
+
+.text span {
+    color: rgb(255, 255, 255);
+}
+
+.widget {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.text1 {
+    margin-left: 50px;
+    width: 38%;
+}
+
+.text1 span {
+    font-weight: bold;
+}
+
+.text1 h3 {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #1652AC;
+    width: 80%;
+}
+
+.text1 p {
+    margin-top: 30px;
+    font-size: 17px;
+    line-height: 32px;
+}
+
+.jot {
+    margin-top: 70px;
+}
+
+.title {
+    margin-top: 70px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: 4px;
+}
+
+.rec {
+    width: 28%;
+    margin: 20px;
+    height: 100px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.11);
+}
+
+.rec img {
+    margin: 0 10px;
+}
+
+.icons {
+    margin-top: 20px;
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.infa {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.inf {
+    width: 48%;
+    line-height: 35px;
+}
+
+.infor {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.11);;
+}
+
+.infa span {
+    font-weight: bold;
+}
+
+.phin {
+    margin: 50px 0 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.hyh {
+    display: flex;
+}
+
+.tyr {
+    display: flex;
+    justify-content: center;
+}
+
+.for button {
+    display: flex;
+    justify-content: center;
+    border: none;
+    width: 80px;
+    height: 42px;
+    margin: 5px;
+    border: 1px solid rgba(128, 128, 128, 0.16);
+}
+
+.for i {
+    font-size: 36px;
+    color: #004FC7;
+}
+
+.circle {
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    border-radius: 50%;
+    border: 1px solid #004FC7;
+}
+
+.circle:hover {
+    background: #004FC7;
+}
+
+.thr {
+    width: 380px;
+    height: 65px;
+    background: #004FC7;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.flex {
+    margin: 20px 0 20px 60px;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.gor {
+    width: 300px;
+    height: 50px;
+    background: #004FC7;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gor i {
+    font-size: 30px;
+}
+
+.widget1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.more {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 43px;
+    letter-spacing: 1px;
+    color: #1652AC;
+}
+
+.j span {
+    color: aquamarine;
+}
+
+.j {
+    width: 30%;
+    margin: 10px;
+}
+.df{
+    color: #000;
+}
+.tor{
+    color: aquamarine;
+}
+.ser span{
+    font-weight: bold;
+}
+.ser{
+    color: rgba(128, 128, 128, 0.78);
+    margin-top: 40px;
+}
+
+.headerj{
+    display: none;
+}
+.imr{
+    display: none;
+}

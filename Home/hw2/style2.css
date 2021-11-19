@@ -1,0 +1,36 @@
+body{
+    background: #f8aaeb;
+}
+body, html {
+    scroll-behavior: smooth;
+}
+.mr {
+    margin-left: 400px;
+    border: 5px solid aqua;
+}
+hr{
+    height: 3px;
+}
+.im {
+    margin-left: 45px;
+    border: 5px solid aqua;
+}
+a{
+    text-decoration: none;
+    color: #ff2463;
+}
+a:hover{
+    color: #c60cff;
+}
+.target{
+    color: aqua;
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+.gr{
+    background: #ff2463;
+}

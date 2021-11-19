@@ -1,0 +1,76 @@
+@media screen and (max-width: 600px) {
+    .inf p {
+        margin-right: 10px;
+        margin-left: 10px;
+        font-size: 14px;
+    }
+
+    .d-flex {
+        width: 170px;
+    }
+
+    .btn-outline-success.btn {
+        width: 50px;
+        font-size: 11px;
+        margin: 2px;
+    }
+
+    .mybutton {
+        display: inline-block;
+    }
+
+    .wrap0 {
+        display: none;
+    }
+
+    .wrap1 {
+        flex-direction: column;
+    }
+
+    .infor {
+        height: 1200px;
+    }
+
+    .phoot img {
+        margin: 50px;
+    }
+
+    .date {
+        background-image: url("images5/555.jpg");
+        width: 380px;
+        height: 168px;
+    }
+
+
+    .texto {
+        display: none;
+    }
+
+    .title h5 {
+        font-size: 18px;
+        margin: 5px 30px 5px -10px;
+        width: 180px;
+        height: 30px;
+    }
+
+    .f i {
+        margin-left: 20px;
+    }
+
+    .frame1 {
+        padding-right: 10px;
+        display: block;
+        width: 180px;
+        margin-right: 10px;
+        margin-left: 5px;
+    }
+
+    .rar {
+        display: block;
+        padding-left: 20px;
+    }
+
+    .lf {
+        margin-left: 10px;
+    }
+}

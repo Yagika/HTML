@@ -1,0 +1,1607 @@
+@media screen and (max-width: 321px) {
+    .dropdown {
+        display: none;
+    }
+
+    .sp {
+        width: 305px;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .three {
+        width: 300px;
+    }
+
+    .right {
+        display: none;
+    }
+
+    .jh {
+        margin: 5px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .dis {
+        display: none;
+    }
+
+    .left.w {
+        margin: 0;
+    }
+
+    .locat {
+        display: none;
+    }
+
+    .loh {
+        margin-top: -20px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .menuh img {
+        width: 135px;
+        height: 46px;
+    }
+
+    .hey p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .hey a {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .what {
+        height: 14px;
+        width: 150px;
+        margin: 10px;
+    }
+
+    .what p {
+        line-height: 12px;
+        font-size: 10px;
+    }
+
+    .what i {
+        font-size: 12px;
+    }
+
+    .holder {
+        display: none;
+    }
+
+    .bly span {
+        display: none;
+    }
+
+    .sere {
+        display: none;
+    }
+
+    .sore {
+        display: flex;
+    }
+
+    .row {
+        display: none;
+    }
+
+    #carouselExampleSlidesOnly {
+        display: flex;
+    }
+
+    #carouselExampleSlidesOnly .carousel-inner {
+        overflow: inherit;
+    }
+
+    .wid3 {
+        display: none;
+    }
+
+    .w-top {
+        margin: 0;
+    }
+
+    .gopi {
+        margin: 3px 0 0 -2px;
+        height: 35px;
+        width: 35px;
+        border-radius: 0 5px 5px 0;
+    }
+
+    .gopli {
+        background: #005bb8;
+        color: #FFFFFF;
+        border: none;
+        margin: 3px 0 0 -2px;
+        height: 35px;
+        width: 115px;
+        border-radius: 0 5px 5px 0;
+    }
+
+    .bly {
+        width: 35px;
+        height: 35px;
+    }
+
+    .my {
+        margin-left: -60px;
+    }
+
+    .pori {
+        margin: 3px 0 0 22px;
+        width: 180px;
+        height: 35px;
+    }
+
+    .carousel-control-next {
+        display: none;
+    }
+
+    .carousel-control-prev {
+        display: none;
+    }
+
+    .widget {
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+    }
+
+    #carouselExampleCaptions {
+        width: 310px;
+        height: 260px;
+        margin: 80px 0 0 5px;
+    }
+
+    .d-block {
+        height: 250px;
+        border-radius: 15px;
+    }
+
+    .small {
+        margin: 20px 0 0;
+    }
+
+    .hire.active .small {
+        position: absolute;
+        left: 10px;
+    }
+
+    #carouselExampleCaptions .carousel-indicators {
+        top: 225px;
+    }
+
+    .lki {
+        padding-left: 30px;
+        margin: -180px -30px 0 20px;
+        height: 110px;
+        width: 160px;
+    }
+
+    .tyf h5 {
+        font-size: 18px;
+        line-height: 19px;
+        width: 200px;
+        margin-left: -40px;
+    }
+
+    .fl {
+        margin: 50px 0 5px -20px;
+    }
+
+    .op1 {
+        font-size: 14px;
+        line-height: 19px;
+    }
+
+    .op {
+        margin: -5px 40px 0 -20px;
+        width: 100px;
+        font-size: 14px;
+    }
+
+    .bron {
+        font-size: 16px;
+        width: 140px;
+        height: 35px;
+        margin: 0 0 0 -130px;
+    }
+
+    .op11 {
+        font-size: 12px;
+        line-height: 19px;
+        padding-top: 2px;
+    }
+
+    #site {
+        width: 56px;
+    }
+
+    .left {
+        margin-right: 60px;
+    }
+
+    .st {
+        display: none;
+    }
+
+    .rect {
+        display: none;
+    }
+
+    .stick {
+        display: none;
+    }
+
+    .jort {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .pact {
+        width: 100px;
+        height: 20px;
+        background: black;
+        color: white;
+        border-radius: 5px;
+        position: absolute;
+        margin-top: -20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .norm {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fourth {
+        padding: 0;
+    }
+
+    .yy {
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .fifth {
+        padding: 0;
+    }
+
+    .tio {
+        margin-left: 10px;
+    }
+
+    .sli img {
+        width: 150px;
+        height: 130px;
+    }
+
+    .hoy {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+
+    .select {
+        display: flex;
+    }
+
+    .bruttons {
+        margin: 5px 0;
+        display: flex;
+    }
+
+    .k {
+        height: 35px;
+        font-size: 12px;
+        margin: 5px 2px;
+    }
+
+    .kbv {
+        width: 150px;
+    }
+
+    .kbv1 {
+        width: 70px;
+    }
+
+    .kbv2 {
+        width: 150px;
+    }
+
+    #pol {
+        margin-bottom: 10px;
+    }
+
+    #polh {
+        font-family: Roboto;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 26px;
+        color: #FFB800;
+    }
+
+    .poli {
+        margin-bottom: 2px;
+    }
+
+    .sli {
+        width: 150px;
+        height: 350px;
+        margin: 5px 0 10px;
+    }
+
+    .bhk {
+        width: 130px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    .dpl2 button i {
+        margin-left: -5px;
+    }
+
+    .ml {
+        display: none;
+    }
+
+    .dpl2 {
+        padding: 0;
+    }
+
+    .m {
+        width: 170px;
+        height: 35px;
+        margin-left: 0;
+    }
+
+    .ji {
+        margin-top: 7px;
+    }
+
+    .hn {
+        display: block;
+    }
+
+    .yy p {
+        width: 90%;
+        margin-left: 10px;
+    }
+
+    .yy {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .yy span {
+        padding: 0;
+        margin: 0;
+    }
+
+    .sp {
+        margin-left: 10px;
+    }
+
+    .bot {
+        margin-bottom: 65px;
+        padding: 5px;
+        font-size: 14px;
+        box-shadow: -5px -5px 10px black;
+    }
+
+    .road {
+        margin-left: 0;
+    }
+
+    .slite {
+        height: 170px;
+        width: 300px;
+    }
+
+    .texty p {
+        font-size: 12px;
+    }
+
+    #carouselExampleControls {
+        display: flex;
+    }
+
+    .slite {
+        margin-left: 10px;
+    }
+
+    .while {
+        display: flex;
+        flex-direction: column;
+        padding-top: 5px;
+        width: 100%;
+        height: 65px;
+        background: #FFFFFF;
+        box-shadow: -5px -5px 10px grey;
+        position: fixed;
+        bottom: 0;
+        z-index: 100;
+    }
+
+    .teop p {
+        font-size: 12px;
+    }
+
+    .nod2.active .hw {
+        left: 0;
+        top: 1330px;
+    }
+
+    .nod1.active .hw {
+        left: 0;
+        top: 1330px;
+    }
+
+    .nod.active .hw {
+        left: 0;
+        top: 1695px;
+    }
+
+    .nod3.active .hw {
+        left: 0;
+        top: 1695px;
+    }
+
+    #site {
+        width: 130px;
+    }
+
+    .nod4.active .hw {
+        left: 0;
+        top: 2060px;
+    }
+
+    .nod8 {
+        transition: left 500ms;
+        display: flex;
+    }
+
+    .nod8.active .hw {
+        left: 0;
+        top: 2060px;
+    }
+
+    .hw {
+        width: 317px;
+    }
+
+    .cc p {
+        margin: -1px -6px 0 3px;
+    }
+
+    .cc {
+        height: 10px;
+        width: 10px;
+        border-radius: 50%;
+        background: #005bb8;
+        color: #FFFFFF;
+        font-size: 8px;
+        position: absolute;
+        top: 5px;
+    }
+
+    .gor {
+        margin-right: 10px;
+    }
+
+    .gor1 {
+        margin-left: 10px;
+    }
+
+    .circ1 {
+        left: 135px;
+    }
+
+    .circ2 {
+        left: 200px;
+    }
+
+    .font {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .teop {
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
+
+@media screen and (min-width: 400px) and (max-width: 500px) {
+    .dropdown {
+        display: none;
+    }
+
+    .right {
+        display: none;
+    }
+
+    .jh {
+        margin: 5px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .dis {
+        display: none;
+    }
+
+    .left.w {
+        margin: 0;
+    }
+
+    .locat {
+        display: none;
+    }
+
+    .loh {
+        margin-top: -20px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .menuh img {
+        width: 135px;
+        height: 46px;
+    }
+
+    .hey p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .hey a {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .what {
+        height: 14px;
+        width: 150px;
+        margin: 10px;
+    }
+
+    .what p {
+        line-height: 12px;
+        font-size: 10px;
+    }
+
+    .what i {
+        font-size: 12px;
+    }
+
+    .holder {
+        display: none;
+    }
+
+    .bly span {
+        display: none;
+    }
+
+    .sere {
+        display: none;
+    }
+
+    .sore {
+        display: flex;
+    }
+
+    .row {
+        display: none;
+    }
+
+    #carouselExampleSlidesOnly {
+        display: flex;
+    }
+
+    #carouselExampleSlidesOnly .carousel-inner {
+        overflow: inherit;
+    }
+
+    .wid3 {
+        display: none;
+    }
+
+    .w-top {
+        margin: 0;
+    }
+
+    .gopi {
+        margin: 3px 0 0 -2px;
+        height: 35px;
+        width: 35px;
+        border-radius: 0 5px 5px 0;
+    }
+
+    .gopli {
+        background: #005bb8;
+        color: #FFFFFF;
+        border: none;
+        margin: 3px 0 0 -2px;
+        height: 35px;
+        width: 115px;
+        border-radius: 0 5px 5px 0;
+    }
+
+    .bly {
+        width: 35px;
+        height: 35px;
+    }
+
+    .my {
+        margin-left: -60px;
+    }
+
+    .pori {
+        margin: 3px 0 0 22px;
+        width: 180px;
+        height: 35px;
+    }
+
+    .carousel-control-next {
+        display: none;
+    }
+
+    .carousel-control-prev {
+        display: none;
+    }
+
+    .widget {
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+    }
+
+    #carouselExampleCaptions {
+        width: 310px;
+        height: 260px;
+        margin: 80px 0 0 5px;
+    }
+
+    .d-block {
+        height: 250px;
+        border-radius: 15px;
+    }
+
+    .small {
+        margin: 20px 0 0;
+    }
+
+    .hire.active .small {
+        position: absolute;
+        left: 10px;
+    }
+
+    #carouselExampleCaptions .carousel-indicators {
+        top: 225px;
+    }
+
+    .lki {
+        padding-left: 30px;
+        margin: -180px -30px 0 20px;
+        height: 110px;
+        width: 160px;
+    }
+
+    .tyf h5 {
+        font-size: 18px;
+        line-height: 19px;
+        width: 200px;
+        margin-left: -40px;
+    }
+
+    .fl {
+        margin: 50px 0 5px -20px;
+    }
+
+    .op1 {
+        font-size: 14px;
+        line-height: 19px;
+    }
+
+    .op {
+        margin: -5px 40px 0 -20px;
+        width: 100px;
+        font-size: 14px;
+    }
+
+    .bron {
+        font-size: 16px;
+        width: 140px;
+        height: 35px;
+        margin: 0 0 0 -130px;
+    }
+
+    .op11 {
+        font-size: 12px;
+        line-height: 19px;
+        padding-top: 2px;
+    }
+
+    #site {
+        width: 56px;
+    }
+
+    .left {
+        margin-right: 60px;
+    }
+
+    .st {
+        display: none;
+    }
+
+    .rect {
+        display: none;
+    }
+
+    .stick {
+        display: none;
+    }
+
+    .jort {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .pact {
+        width: 100px;
+        height: 20px;
+        background: black;
+        color: white;
+        border-radius: 5px;
+        position: absolute;
+        margin-top: -20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .norm {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fourth {
+        padding: 0;
+    }
+
+    .yy {
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .fifth {
+        padding: 0;
+    }
+
+    .tio {
+        margin-left: 10px;
+    }
+
+    .sli img {
+        width: 150px;
+        height: 130px;
+    }
+
+    .hoy {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+
+    .select {
+        display: flex;
+    }
+
+    .bruttons {
+        margin: 5px 0;
+        display: flex;
+    }
+
+    .k {
+        height: 35px;
+        font-size: 12px;
+        margin: 5px 2px;
+    }
+
+    .kbv {
+        width: 150px;
+    }
+
+    .kbv1 {
+        width: 70px;
+    }
+
+    .kbv2 {
+        width: 150px;
+    }
+
+    #pol {
+        margin-bottom: 10px;
+    }
+
+    #polh {
+        font-family: Roboto;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 26px;
+        color: #FFB800;
+    }
+
+    .poli {
+        margin-bottom: 2px;
+    }
+
+    .sli {
+        width: 150px;
+        height: 350px;
+        margin: 5px 0 10px;
+    }
+
+    .bhk {
+        width: 130px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    .dpl2 button i {
+        margin-left: -5px;
+    }
+
+    .ml {
+        display: none;
+    }
+
+    .dpl2 {
+        padding: 0;
+    }
+
+    .m {
+        width: 170px;
+        height: 35px;
+        margin-left: 0;
+    }
+
+    .ji {
+        margin-top: 7px;
+    }
+
+    .hn {
+        display: block;
+    }
+
+    .yy p {
+        width: 90%;
+        margin-left: 10px;
+    }
+
+    .yy {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .yy span {
+        padding: 0;
+        margin: 0;
+    }
+
+    .sp {
+        margin-left: 10px;
+    }
+
+    .bot {
+        margin-bottom: 65px;
+        padding: 5px;
+        font-size: 14px;
+        box-shadow: -5px -5px 10px black;
+    }
+
+    .road {
+        margin-left: 0;
+    }
+
+    .slite {
+        height: 170px;
+        width: 300px;
+    }
+
+    .texty p {
+        font-size: 12px;
+    }
+
+    #carouselExampleControls {
+        display: flex;
+    }
+
+    .slite {
+        margin-left: 10px;
+    }
+
+    .while {
+        display: flex;
+        flex-direction: column;
+        padding-top: 5px;
+        width: 100%;
+        height: 65px;
+        background: #FFFFFF;
+        box-shadow: -5px -5px 10px grey;
+        position: fixed;
+        bottom: 0;
+        z-index: 100;
+    }
+
+    .teop p {
+        font-size: 12px;
+    }
+
+    .nod2.active .hw {
+        left: 0;
+        top: 1330px;
+    }
+
+    .nod1.active .hw {
+        left: 0;
+        top: 1330px;
+    }
+
+    .nod.active .hw {
+        left: 0;
+        top: 1695px;
+    }
+
+    .nod3.active .hw {
+        left: 0;
+        top: 1695px;
+    }
+
+    #site {
+        width: 130px;
+    }
+
+    .nod4.active .hw {
+        left: 0;
+        top: 2060px;
+    }
+
+    .nod8 {
+        transition: left 500ms;
+        display: flex;
+    }
+
+    .nod8.active .hw {
+        left: 0;
+        top: 2060px;
+    }
+
+    .hw {
+        width: 317px;
+    }
+
+    .cc p {
+        margin: -1px -6px 0 3px;
+    }
+
+    .cc {
+        height: 10px;
+        width: 10px;
+        border-radius: 50%;
+        background: #005bb8;
+        color: #FFFFFF;
+        font-size: 8px;
+        position: absolute;
+        top: 5px;
+    }
+
+    .gor {
+        margin-right: 10px;
+    }
+
+    .gor1 {
+        margin-left: 10px;
+    }
+
+    .circ1 {
+        left: 135px;
+    }
+
+    .circ2 {
+        left: 200px;
+    }
+
+    .font {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .teop {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .w-top {
+        margin: 0 0 0 10px;
+        width: 390px;
+    }
+
+    .w-bottom {
+        margin: 0 0 0 10px;
+        width: 390px;
+    }
+
+    .slite {
+        margin-right: 0;
+        width: 395px;
+    }
+
+    .menuh img {
+        width: 160px;
+        height: 55px;
+    }
+
+    .nod1.active .hw {
+        left: 90px;
+    }
+
+    .nod.active .hw {
+        left: 90px;
+    }
+
+    .nod8.active .hw {
+        left: 90px;
+    }
+
+    .pori {
+        width: 273px;
+    }
+
+    .left.w {
+        margin-left: -100px;
+    }
+
+    .carousel-inner {
+        width: 400px;
+    }
+
+    .lki {
+        height: 180px;
+        width: 240px;
+    }
+
+    .tyf h5 {
+        font-size: 22px;
+    }
+
+    .op {
+        font-size: 16px;
+    }
+
+    .bron {
+        margin-left: -210px;
+    }
+
+    .fl {
+        margin-left: -30px;
+    }
+
+    .op1 {
+        font-size: 18px;
+    }
+
+    .carousel-indicators {
+        margin-left: 45%;
+    }
+
+    .case {
+        margin-left: -120px;
+    }
+
+    .kbv {
+        width: 170px;
+        margin-left: 10px;
+    }
+
+    .texty p {
+        font-size: 16px;
+    }
+
+    .bhk {
+        font-size: 14px;
+        height: 35px;
+    }
+
+    .dpl1 {
+        margin-top: 56px;
+    }
+
+    .sli {
+        width: 200px;
+    }
+
+    .tio {
+        width: 90%;
+    }
+
+    .fof {
+        font-size: 18px;
+    }
+
+    .widget {
+        margin-right: 0;
+    }
+
+    .circ1 {
+        left: 172px;
+    }
+
+    .circ2 {
+        left: 255px;
+    }
+
+}
+
+@media screen and (min-width: 505px) and (max-width: 800px) {
+    .right {
+        display: none;
+    }
+
+    .left {
+        margin-left: -80px;
+    }
+
+    .case {
+        margin-right: -50px;
+        margin-left: 80px;
+        display: flex;
+    }
+
+    .jh {
+        margin: 5px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .psy {
+        margin-top: -20px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .pork {
+        width: 260px;
+        height: 38px;
+    }
+
+    .gop {
+        width: 60px;
+        height: 37px;
+    }
+
+    .hey p {
+        margin-top: -20px;
+    }
+
+    .loh {
+        height: 80px;
+        margin-top: -30px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .locat {
+        margin-top: -10px;
+    }
+
+    .menuh.xox {
+        width: 200px;
+        height: 70px;
+    }
+
+    .dis p {
+        font-size: 14px;
+    }
+
+    .dis img {
+        width: 26px;
+        height: 26px;
+    }
+
+    .pp {
+        width: 130px;
+    }
+
+    .kos {
+        width: 20px;
+        height: 27px;
+    }
+
+    .locat p {
+        font-size: 14px;
+    }
+
+    .fos {
+        width: 10px;
+        height: 10px;
+        margin-left: 5px;
+    }
+
+    .d {
+        margin-top: 20px;
+    }
+
+    .hil {
+        font-weight: bold;
+    }
+
+    .hlik {
+        font-weight: bold;
+        margin-left: -20px;
+    }
+
+    .my {
+        left: 15px;
+    }
+
+    .bly {
+        height: 37px;
+        width: 37px;
+        padding-right: 5px;
+    }
+
+    .whi {
+        height: 220px;
+    }
+
+    .bly span {
+        display: none;
+    }
+
+    .holder.d {
+        margin-top: 20px;
+    }
+
+    .holder {
+        display: flex;
+        flex-direction: column;
+        margin: 5px 10px;
+    }
+
+    .holder p {
+        font-size: 14px;
+        margin-left: -10px;
+    }
+
+    .carousel-inner {
+        height: 320px;
+        width: 500px;
+    }
+
+    .carousel-item {
+        height: 310px;
+        width: 500px;
+    }
+
+    .d-block {
+        height: 310px;
+        width: 500px;
+    }
+
+    .holder.hlik {
+        margin-left: -20px;
+    }
+
+    .lki {
+        height: 220px;
+        width: 280px;
+        position: absolute;
+        margin-left: 80px;
+    }
+
+    .tyf h5 {
+        font-size: 30px;
+        width: 300px;
+    }
+
+    .slite img {
+        width: 80px;
+        height: 110px;
+        margin-top: 20px;
+    }
+
+    .slite {
+        height: 160px;
+    }
+
+    .texty p {
+        font-size: 14px;
+    }
+
+    .fl {
+        margin-left: 15px;
+    }
+
+    .op1 {
+        font-size: 27px;
+    }
+
+    .op11 {
+        font-size: 20px;
+    }
+
+    .yiu {
+        display: none;
+    }
+
+    .slite {
+        margin: 10px 3px;
+    }
+
+    .texty h3 {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .texty h4 {
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .op {
+        margin-left: 30px;
+        width: 100px;
+    }
+
+    .fof {
+        font-weight: bold;
+    }
+
+    #carouselExampleCaptions {
+        margin: 20px 5px;
+    }
+
+    .hpo p {
+        font-size: 14px;
+    }
+
+    .hpo img {
+        margin: 3px;
+        width: 50px;
+        height: 40px;
+    }
+
+    .w-top {
+        width: 257px;
+        height: 155px;
+        margin-bottom: 3px;
+    }
+
+    .w-bottom {
+        height: 155px;
+        width: 257px;
+    }
+
+    .jor {
+        width: 250px;
+    }
+
+    .hire.active .small {
+        left: 150px;
+    }
+
+    .d-n {
+        display: none;
+    }
+
+    .sli img {
+        width: 250px;
+        height: 200px;
+    }
+
+    .dpl2 img {
+        width: 21px;
+        height: 17px;
+    }
+
+    .sli {
+        height: 410px;
+        width: 230px;
+        margin: 10px 5px;
+    }
+
+    .p3 {
+        right: 400px;
+    }
+
+    .pn3 {
+        right: 360px;
+    }
+
+    .pn2 {
+        left: 580px;
+    }
+
+    .dpl1 {
+        margin-top: 50px;
+    }
+
+
+    .p2 {
+        left: 620px;
+    }
+
+    .sp {
+        margin-left: 400px;
+    }
+
+    .bron {
+        margin-left: -60px;
+    }
+
+    .tot {
+        margin-left: 40px;
+        width: 260px;
+    }
+
+    .lpo {
+        margin-right: 0;
+        margin-left: 160px;
+    }
+
+    .road {
+        margin: 5px 0 5px 445px;
+
+    }
+
+    .carousel-indicators {
+        margin-top: -80px;
+    }
+
+    .nod1.active .hw {
+        top: 1360px;
+        left: 250px;
+    }
+
+    .nod5.active .hw {
+        top: 1360px;
+        left: 400px;
+    }
+
+    .nod3.active .hw {
+        top: 1800px;
+        left: 20px;
+    }
+
+    .nod.active .hw {
+        top: 1800px;
+        left: 250px;
+    }
+
+    .nod4.active .hw {
+        top: 1800px;
+        left: 400px;
+    }
+
+    .nod9 {
+        transition: left 500ms;
+        display: flex;
+    }
+
+    .nod9.active .hw {
+        left: 20px;
+        top: 2240px;
+    }
+
+    .nod10 {
+        transition: left 500ms;
+        display: flex;
+    }
+
+    .nod10.active .hw {
+        left: 250px;
+        top: 2240px;
+    }
+
+    .nod11 {
+        transition: left 500ms;
+        display: flex;
+    }
+
+    .nod11.active .hw {
+        left: 400px;
+        top: 2240px;
+    }
+
+    .yy span {
+        margin-left: 0;
+    }
+
+    .tyf {
+        margin: 0 0 0 -300px;
+    }
+
+    #polh {
+        font-family: Roboto;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 26px;
+        color: #FFB800;
+    }
+
+    .kbv2.m {
+        margin-top: 30px;
+    }
+
+    #l2 {
+        margin-top: 55px;
+    }
+
+    #pol5 {
+        font-family: Roboto;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 26px;
+        color: #FFB800;
+        margin-bottom: 10px;
+    }
+
+    .footer {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .bot {
+        padding: 5px;
+        font-size: 14px;
+        box-shadow: -5px -5px 10px black;
+    }
+
+    .vv {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .er {
+        display: none;
+    }
+
+    .gr {
+        display: flex;
+        margin-right: 20px;
+    }
+
+    .sp {
+        margin: 0;
+        width: 700px;
+        display: flex;
+    }
+
+    .center {
+        margin-top: 20px;
+    }
+}

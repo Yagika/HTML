@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,500&family=Tinos:wght@400;700&display=swap"
+          rel="stylesheet">
+    <link rel="stylesheet" href="optimstyle.css">
+    <link rel="stylesheet" href="optimmedia.css">
+    <title>Restaurant header</title>
+</head>
+<body>
+<div class="header">
+    <div class="header__top wrapper align-content-center justify-content-between d-flex">
+        <div class="header__logo"><img src="images/LOGO.svg" alt="logo"></div>
+        <div class="mybutton position-absolute d-n" id="check-menu" onclick="myFunction(this)">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+        </div>
+        <div class="header__menu align-items-center d-f">
+            <div class="header_top">
+                <nav class="nav d-f">
+                    <div class="nav__item"><a class="wh text-decoration-none os fw-bold" href="#">ГЛАВНАЯ</a></div>
+                    <div class="nav__item"><a class="wh text-decoration-none os fw-bold" href="#">МЕНЮ</a></div>
+                    <div class="nav__item"><a class="wh text-decoration-none os fw-bold" href="#">О НАС</a></div>
+                    <div class="nav__item"><a class="wh text-decoration-none os fw-bold" href="#">БРОНЬ</a></div>
+                    <div class="nav__item"><a class="wh text-decoration-none os fw-bold" href="#"><i class="fas fa-shopping-cart fs-5"></i></a></div>
+                </nav>
+            </div>
+            <div class="header__contact align-items-center d-f">
+                <div class="header__phone wh os fw-bold">
+                    <img src="images/phone.png" alt="phone"> +999-888-76-54
+                    <p>Свяжитесь с нами для
+                        бронирования</p>
+                </div>
+                <button class="header__button fw-bold">ЗАКАЗ СТОЛИКА</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="header__main">
+        <div class="header__title flex-column align-items-center justify-content-center d-f">
+            <h2 class="t">Добро пожаловать в</h2>
+            <h1 class="t">Наш ресторан</h1>
+            <p class="os wh align-items-center justify-content-center d-flex">ДОМ ЛУЧШЕЙ ЕДЫ</p>
+            <button class="header__button wh">VIEW MENU</button>
+        </div>
+        <div class="header__til d-n">
+            <h2>Добро пожаловать</h2>
+            <h1>В наш ресторан</h1>
+            <p>ДОМ ЛУЧШЕЙ ЕДЫ</p>
+            <button class="header__button">МЕНЮ</button>
+        </div>
+    </div>
+</div>
+<div class="inform justify-content-center d-f">
+    <div class="inform-top flex-column t align-items-center justify-content-center d-flex">
+        <img src="images/photo_2021-10-27_16-38-16.jpg" alt="dish">
+        <h5>Магическая <span>Атмосфера</span></h5>
+        <p class="text-center">В нашем заведении царит магическая атмосфера
+            наполненная вкусными ароматами</p>
+    </div>
+    <div class="inform-top flex-column t align-items-center justify-content-center d-flex">
+        <img src="images/photo_2021-10-27_16-38-16.jpg" alt="dish">
+        <h5>Лучшее качество <span>Еды</span></h5>
+        <p class="text-center">Качество нашей
+            Еды - отменное!
+        </p>
+    </div>
+    <div class="inform-top flex-column t align-items-center justify-content-center d-flex">
+        <img src="images/photo_2021-10-27_16-38-16.jpg" alt="dish">
+        <h5>Недорогая <span>Еда</span></h5>
+        <p class="text-center">Стоимость нашей Еды
+            зависит только от ее
+            количества. Качество
+            всегда на высоте!</p>
+    </div>
+</div>
+
+<script>
+    function myFunction(x) {
+        x.classList.toggle("change");
+        document.querySelector(selectors = '.header_top').classList.toggle(token = 'active')
+    }
+</script>
+<script src="https://kit.fontawesome.com/fb3dac0bb5.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+</body>
+</html>

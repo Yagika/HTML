@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Block3</title>
+    <style>
+        .general{
+            background: aqua;
+            width: 400px;
+            height: 600px;
+            justify-content: center;
+        }
+        .block{
+            background: #f8aaeb;
+        }
+        .wid{
+            width: 390px;
+        }
+        .header{
+            margin: 5px 5px 0 5px;
+            height: 120px;
+        }
+        .widget{
+            height: 160px;
+            width: 126px;
+        }
+        .mar{
+            margin: 5px 0;
+        }
+        .mar1{
+            margin: 5px;
+        }
+        .footer{
+            height: 300px;
+            margin: 0 5px 5px 5px;
+        }
+        .wrap{
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+<div class="general">
+    <div class="header block wid"></div>
+    <div class="wrap">
+        <div class="widget mar1 block"></div>
+        <div class="widget mar block"></div>
+        <div class="widget mar1 block"></div>
+    </div>
+    <div class="footer block wid"></div>
+</div>
+</body>
+</html>

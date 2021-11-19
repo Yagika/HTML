@@ -1,0 +1,170 @@
+.header {
+    background: url("images/hero image (2).jpg");
+    height: 800px;
+}
+
+.header__top.wrapper {
+    padding-top: 50px;
+}
+
+.d-n {
+    display: none;
+}
+.d-f{
+    display: flex;
+}
+
+.header__logo {
+    margin-left: 30px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.nav__item a {
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.wh {
+    color: white;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 40px;
+    height: 5px;
+    border-radius: 5px;
+    margin: 6px 0;
+    transition: 0.4s;
+    background: #FF7400;
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {
+    opacity: 0;
+}
+
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+}
+
+.mybutton {
+    right: 30px;
+    margin-top: -20px;
+}
+
+.nav__item {
+    margin-right: 23px;
+}
+
+.header__menu {
+    padding-right: 20px;
+}
+
+.header__phone {
+    font-size: 18px;
+    line-height: 25px;
+    width: 185px;
+}
+
+.header__contact {
+    border-left: 1px solid #fff;
+    padding: 0 10px;
+}
+
+.header__button {
+    font-size: 14px;
+    line-height: 19px;
+    padding: 0 19px;
+    background: #FF7400;
+    border: none;
+    height: 47px;
+    margin: 0 45px;
+}
+
+.header__title {
+    color: #D67E35;
+    margin-top: 170px;
+    margin-left: 150px;
+    width: 500px;
+}
+
+.header__title h2 {
+    font-size: 50px;
+    line-height: 57px;
+    margin-left: 24px;
+}
+
+.header__title h1 {
+    font-size: 80px;
+    line-height: 92px;
+}
+
+.header__title p {
+    font-size: 18px;
+    line-height: 25px;
+    margin-top: 12px;
+}
+
+.header__title p::before,
+.header__title p::after {
+    display: block;
+    content: "";
+    width: 61px;
+    height: 2px;
+    background: #C4C4C4;
+    margin: 0 10px;
+}
+
+.header__main .header__button {
+    margin-top: 35px;
+}
+
+.t {
+    font-family: Tinos;
+}
+
+.os {
+    font-family: Open Sans;
+}
+
+.inform-top {
+    width: 350px;
+    height: 330px;
+    font-size: 26px;
+    line-height: 30px;
+    margin: 0 20px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+}
+
+.inform-top img {
+    width: 70px;
+    margin: 10px;
+}
+
+.inform-top h5 {
+    color: #2C2C2C;
+
+}
+
+.inform-top p {
+    margin: 10px;
+    padding: 0 20px;
+    color: #656363;
+    font-size: 22px;
+}
+
+.inform {
+    margin-top: -100px;
+}
+
+.inform-top h5 span {
+    color: #FF7400;
+}

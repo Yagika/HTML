@@ -1,0 +1,108 @@
+@media screen and (max-width: 500px) {
+    .inf p {
+        margin-right: 10px;
+        margin-left: 10px;
+        font-size: 14px;
+    }
+
+    .d-flex {
+        width: 170px;
+    }
+
+    .btn-outline-success.btn {
+        width: 50px;
+        font-size: 11px;
+        margin: 2px;
+    }
+
+    .mybutton {
+        display: inline-block;
+    }
+
+    .wrap0 {
+        display: none;
+    }
+
+    .wrap1 {
+        flex-direction: column;
+    }
+
+    .infor {
+        height: 1200px;
+    }
+
+    .phoot img {
+        margin: 50px;
+    }
+
+    .date {
+        background-image: url("images5/555.jpg");
+        width: 380px;
+        height: 168px;
+    }
+
+
+    .texto {
+        display: none;
+    }
+
+    .title h5 {
+        font-size: 18px;
+        margin: 5px 30px 5px -10px;
+        width: 180px;
+        height: 30px;
+    }
+
+    .f i {
+        margin-left: 20px;
+    }
+
+    .frame1 {
+        padding-right: 10px;
+        display: block;
+        width: 180px;
+        margin-right: 10px;
+        margin-left: 5px;
+    }
+
+    .rar {
+        display: block;
+        padding-left: 20px;
+    }
+
+    .lf {
+        margin-left: 10px;
+    }
+
+    .wrap0 {
+        display: flex;
+        position: absolute;
+        background: rgba(185, 181, 181, 0.73);
+        flex-direction: column;
+        z-index: 10;
+        left: 100%;
+        margin-top: 50px;
+        padding-bottom: 20px;
+        width: 100%;
+    }
+
+    .inf1 p {
+        margin: 20px;
+        font-weight: 800;
+        letter-spacing: 3px;
+        font-size: 20px;
+        width: 100%;
+    }
+    .inf1 p:hover{
+font-size: 21px;
+        color: #a9031e;
+    }
+
+    .header_top {
+        transition: left 1000ms;
+    }
+
+    .header_top.active .wrap0 {
+        left: 0;
+    }
+}

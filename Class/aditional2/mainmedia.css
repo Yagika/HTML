@@ -1,0 +1,47 @@
+@media screen and (max-width: 500px) {
+    .search {
+        display: none;
+    }
+
+    .mybutton {
+        color: white;
+        margin-left: 180px;
+    }
+
+    .hki {
+        width: 100px;
+        height: 100px;
+        margin-top: 50px;
+    }
+    .wrap4{
+        display: flex;
+        flex-direction: column;
+    }
+    .ima{
+        margin-top: 50px;
+    }
+
+    .wrap3 i {
+        display: none;
+    }
+
+    .header-bottom {
+        height: 300px;
+    }
+
+    .wrap2 {
+        margin-left: -10px;
+    }
+
+    .wrap3 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .wrap3 img {
+        margin: 10px;
+    }
+    .in{
+        margin-left: 5px;
+    }
+}

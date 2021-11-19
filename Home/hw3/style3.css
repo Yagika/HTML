@@ -1,0 +1,77 @@
+body{
+    background: #f591ae;
+}
+body, html {
+    scroll-behavior: smooth;
+}
+hr{
+    height: 3px;
+}
+.im {
+    margin-left: 45px;
+    border: 5px solid aqua;
+}
+a{
+    text-decoration: none;
+    color: #ff2463;
+}
+a:hover{
+    color: #c60cff;
+}
+.target{
+    color: aqua;
+}
+.gr{
+    color: aqua;
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+.ker{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.sq{
+    margin: 10px 0;
+    width: 512px;
+    height: 340px;
+    box-shadow: 60px -16px 100px teal;
+}
+.txt{
+    width: 150px;
+    font-size: 32px;
+    text-align: center;
+}
+#two{
+    animation-name: xxx;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-duration: 6s;
+}
+@keyframes xxx {
+    from{
+        transform: rotateY(0);
+    }
+    to{
+        transform: rotateY(360deg);
+    }
+}
+#three{
+    animation-name: ri;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-duration: 6s;
+}
+@keyframes ri {
+    from{
+        transform: rotateY(0);
+    }
+    to{
+        transform: rotateY(360deg);
+    }
+}

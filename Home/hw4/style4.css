@@ -1,0 +1,19 @@
+.widgets {
+    margin-left: 10px;
+}
+
+.wrap {
+    display: flex;
+}
+.fox{
+    display: block;
+}
+i {
+    font-size: 30px;
+}
+.card{
+    margin:10px;
+}
+.jj{
+    margin:10px;
+}
