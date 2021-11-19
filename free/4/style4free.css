@@ -1,0 +1,15 @@
+.general {
+    width: 300px;
+    margin-left: 10px;
+}
+
+.wrap {
+    margin-left: 300px;
+    margin-top: -300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+i {
+    font-size: 30px;
+}

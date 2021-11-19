@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+}
+
+.wrap {
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.menu {
+    height: 66px;
+    display: flex;
+    box-sizing: border-box;
+    border-bottom: 1px solid #C4C4C4;
+}
+
+.menu-left {
+    height: 66px;
+    width: 720px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+.menu-left a {
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+.menu-left a:hover {
+    font-weight: bold;
+}
+
+.menu-right {
+    height: 66px;
+    width: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-right a {
+    font-size: 20px;
+    text-decoration: none;
+    color: silver;
+    margin-left: 10px;
+    margin-right: 5px;
+    transition: 300ms;
+}
+
+.menu-right a:hover {
+    color: #30ABAE;
+}
+
+.footer {
+    background: #16595A;
+    height: 90px;
+    width: 100%;
+    position: absolute;
+    bottom: -30px;
+    margin-top: 90px;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.center input{
+    margin: 10px;
+    width: 400px;
+    border: 1px solid rgba(0, 0, 0, 0.27);
+}
+.center input:hover{
+    border: 1px solid rgb(47, 195, 236);
+}
+.tex{
+    height: 35px;
+}
+.btex{
+    height: 120px;
+}
+.btex::placeholder{
+transform: translateY(-50px);
+}
+.inform {
+    width: 62%;
+    height: 80%;
+    position: absolute;
+    background: #f2f5f1;
+    margin-top: 85px;
+    z-index: -1;
+}
+
+.title {
+    font-family: Playfair Display;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    width: 700px;
+    height: 96px;
+    left: 207px;
+    top: 100px;
+}
+.but{
+   background: #30ABAE;
+    width: 120px;
+    height: 30px;
+    border: none;
+    margin-top: 10px;
+}
+.but a{
+    text-decoration: none;
+    color: white;
+}

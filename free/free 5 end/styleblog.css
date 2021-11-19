@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+}
+
+.wrap {
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.menu {
+    height: 66px;
+    display: flex;
+    box-sizing: border-box;
+    border-bottom: 1px solid #C4C4C4;
+}
+
+.menu-left {
+    height: 66px;
+    width: 720px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+.menu-left a {
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+.menu-left a:hover {
+    font-weight: bold;
+}
+
+.menu-right {
+    height: 66px;
+    width: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-right a {
+    font-size: 20px;
+    text-decoration: none;
+    color: silver;
+    margin-left: 10px;
+    margin-right: 5px;
+    transition: 300ms;
+}
+
+.menu-right a:hover {
+    color: #30ABAE;
+}
+
+
+.inform {
+    position: absolute;
+    width: 918px;
+    height: 742px;
+    left: 2px;
+    top: 159px;
+    background: #f2f5f1;
+    z-index: -1;
+}
+
+.title {
+    font-family: Playfair Display;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 96px;
+    position: absolute;
+    width: 151px;
+    height: 96px;
+    left: 207px;
+    top: 100px;
+}
+
+.yt {
+    display: flex;
+}
+
+.circle {
+    position: absolute;
+    left: 416px;
+    top: 149px;
+    background: #C4C4C4;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+}
+
+.ii {
+    color: #30ABAE;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.pop {
+    margin: 10px 0 10px 80px;
+    color: grey;
+}
+
+.im {
+    position: absolute;
+    width: 712px;
+    height: 464px;
+    top: 274px;
+    left: 630px;
+}
+
+.kray {
+    font-size: 36px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    color: grey;
+    position: absolute;
+    width: 211px;
+    height: 48px;
+    left: 467px;
+    top: 130px;
+    line-height: 48px;
+}
+
+.wrapinf {
+    left: 200px;
+    top: 270px;
+    width: 350px;
+    height: 500px;
+    position: absolute;
+}
+.lorem{
+    margin: 20px 0;
+}
+.footer {
+    background: #16595A;
+    height: 90px;
+    width: 100%;
+    position: absolute;
+    bottom: -400px;
+    margin-top: 300px;
+}
